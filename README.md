@@ -1,2 +1,2 @@
 # python-calculator
-first task of softcode #softcode
+first task of codsoft #vodsoft
