@@ -1,2 +1,2 @@
 # python-calculator
-first task of codsoft #vodsoft
+first task of codsoft #codsoft
